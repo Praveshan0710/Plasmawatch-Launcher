@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Overwatch Beta Launcher": {
+      "commandName": "Project",
+      "commandLineArgs": "GameClientApp.exe hjsfgsg djhbfjwh hbdsjf",
+      "workingDirectory": "D:\\Overwatch Beta 0.8.0.24919"
+    }
+  }
+}

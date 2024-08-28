@@ -1,0 +1,7 @@
+﻿ReadProcessMemory
+CloseHandle
+OpenProcess
+// VirtualQueryEx
+WriteProcessMemory
+VirtualProtectEx
+// DuplicateHandle
